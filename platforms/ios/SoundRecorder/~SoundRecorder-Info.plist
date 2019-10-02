@@ -28,8 +28,6 @@
 	<string/>
 	<key>NSMainNibFile~ipad</key>
 	<string/>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>need microphone access to record sounds</string>
 	<key>UIRequiresFullScreen</key>
 	<true/>
 	<key>UISupportedInterfaceOrientations</key>
